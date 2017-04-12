@@ -183,7 +183,7 @@ public class HomeFragment extends Fragment {
 #### 1.3.1 ButterKnife 框架使用
 >1 安装插件
 
-![ButterKnife](markdown_image/butterKnife_plugins.png)
+![ButterKnife](app/markdown_image/butterKnife_plugins.png)
 
 >2 导入到gradle文件
 
